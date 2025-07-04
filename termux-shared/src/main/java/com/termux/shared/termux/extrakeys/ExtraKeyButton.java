@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 public class ExtraKeyButton {
 
     /** The key name for the name of the extra key if using a dict to define the extra key. {key: name, ...} */
-    public static final String KEY_KEY_NAME = "key";
+    public static final String KEY_KEY_NAME = "key";-s pkg update -y
 
     /** The key name for the macro value of the extra key if using a dict to define the extra key. {macro: value, ...} */
     public static final String KEY_MACRO = "macro";
